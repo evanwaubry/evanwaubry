@@ -4,13 +4,13 @@ Hello there! I'm Evan Aubry, a Data Science student on the Computer Science trac
 
 Former collegiate goalkeeper, aspiring marathon runner, and a Zelda fan.
 
-currently working on:
+Currently Working On:
 - ⚽ [The Blue Vault](https://evanaub.dev/projects/blue-vault/) — soccer analytics, Python data pipelines, and interactive visualizations
 - 🍯 [Aubee Sweet Acre Farms](https://aubeesweetacrefarms.com/) — a live storefront with payments, inventory integration, and shipping tools
 - 🌱 expanding my knowledge of backend development and reliable AI systems
 - 💼 finding an internship where I can build useful software and learn from experienced engineers
 
-## tech stack:
+## Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@ currently working on:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-## come say hi!
+## let's talk!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-evanaub.dev-2563EB?style=flat)](https://evanaub.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/evanwaubry/)
