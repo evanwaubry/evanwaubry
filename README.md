@@ -1,8 +1,6 @@
-# welcomerepo
+# Aspiring Software Developer / Ai Engineer
 
-# Aspiring Software Developer
-
-I'm Evan Aubry, a Data Science student on the Computer Science track at Rutgers University and a Level 2 IT Consultant at Rutgers OIT.
+Hello there! I'm Evan Aubry, a Data Science student on the Computer Science track at Rutgers University and a Level 2 IT Consultant at Rutgers OIT.
 
 Former collegiate goalkeeper, aspiring marathon runner, and a Zelda fan.
 
