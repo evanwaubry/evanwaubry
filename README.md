@@ -32,7 +32,7 @@ Currently Working On:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-## let's talk!
+## Let's Talk!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-evanaub.dev-2563EB?style=flat)](https://evanaub.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/evanwaubry/)
